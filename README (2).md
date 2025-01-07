@@ -47,7 +47,7 @@ max = 10^9
         D --> E([Конец])
     ``` 
 ```
-![Image alt](https://github.com/nickshopot/README (2)/raw//LAB1/LAB1.jpg)
+![Image alt](https://github.com/nickshopot/README(2)/raw//LAB1/LAB1.jpg)
 
 
 ### 5. Программа
